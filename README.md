@@ -13,4 +13,4 @@ Quase nunca está.
 
 
 💡 # Minhas Tecnologias  
-[![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg)
+[![My Skills](https://skillicons.dev/icons?i=figma,postman,draw.io)](https://skillicons.dev)
