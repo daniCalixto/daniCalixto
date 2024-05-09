@@ -13,4 +13,4 @@ Quase nunca está.
 
 
 💡 # Minhas Tecnologias  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
