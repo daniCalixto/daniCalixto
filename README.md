@@ -13,4 +13,4 @@ Quase nunca está.
 
 
 💡 # Minhas Tecnologias
-![Postman](https://www.svgrepo.com/show/354202/postman-icon.svg)
+![Postman](https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png)
