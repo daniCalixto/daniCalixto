@@ -12,3 +12,4 @@ Nunca é tarde para perseguir nossos sonhos e buscar novas oportunidades de cres
 Quase nunca está.
 
 
+💡 # Minhas Tecnologias
