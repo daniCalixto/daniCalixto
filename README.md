@@ -13,4 +13,4 @@ Quase nunca está.
 
 
 💡 # Minhas Tecnologias
-![Postman](https://www.bing.com/ck/a?!&&p=10bf3bbd014ac39bJmltdHM9MTcxNTIxMjgwMCZpZ3VpZD0yNDllMmE1Ny0xZDZmLTY0ZTMtMmMzOS0zZTI3MWM3YjY1YmMmaW5zaWQ9NTYwOQ&ptn=3&ver=2&hsh=3&fclid=249e2a57-1d6f-64e3-2c39-3e271c7b65bc&u=a1L2ltYWdlcy9zZWFyY2g_cT1sb2dvJTIwZG8lMjBwb3N0bWFuJkZPUk09SVFGUkJBJmlkPTc1MDhCNTUwMzIzMDlFMURFRkE3QURGMzMwRDRBRkYxNjVDMDc3ODM&ntb=1)
+![Postman](https://www.svgrepo.com/show/354202/postman-icon.svg)
