@@ -29,5 +29,5 @@ Quase nunca está.
 - Swagger
 
 # Contato
-[![My Skills](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)])(mailto:daniela.calixto23@gmail.com)
+[![My Skills](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniela.calixto23@gmail.com)
 
