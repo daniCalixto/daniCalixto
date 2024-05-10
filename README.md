@@ -30,6 +30,6 @@ Quase nunca está.
 
 # Contato
 
-[![My Skills](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://GOOGLE.com/)
+[![My Skills](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://google.com/)
 
 
