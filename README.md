@@ -13,4 +13,4 @@ Quase nunca está.
 
 
 💡 # Minhas Tecnologias  
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/)]
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/);[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
