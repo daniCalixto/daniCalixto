@@ -13,8 +13,20 @@ Quase nunca está.
 
 
 💡 # Minhas Tecnologias  
+
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
 🧠 # Próximos Estudos
 - Certificado CTFL
 - Scrum/Kanban
+
+💻 # Ferramentas do meu dia-a-dia
+- Jira
+- Postman
+- Clickup
+- Figma
+- Draw.io
+- Swagger
+
+# Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
