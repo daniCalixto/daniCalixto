@@ -14,7 +14,7 @@ Quase nunca está.
 
 💡 # Minhas Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />)]
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) 
 
 🧠 # Próximos Estudos
 - Certificado CTFL
