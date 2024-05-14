@@ -14,7 +14,8 @@ Quase nunca está.
 
 💡 # Minhas Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=java)](https://java.com/) ![Jira](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Djira&psig=AOvVaw3dja80ke7hG108PoeWTDRI&ust=1715799337263000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiA-eHojYYDFQAAAAAdAAAAABAI)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=java)](https://java.com/) ![Jira](https://atlassian.design/resources/logo-library#atlassian-attribution-logos)
+
 
 
 
