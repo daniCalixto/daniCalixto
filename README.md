@@ -14,7 +14,8 @@ Quase nunca está.
 
 💡 # Minhas Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=java)](https://java.com/) [![Jira](https://img.shields.io/badge/Jira-Software-blue?logo=jira-software)]([www.atlassian.com/jira/official](https://tripletenteam.atlassian.net/jira/people/712020%3A7931ae6b-db09-43de-8610-518f3074a396))
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=java)](https://java.com/) ![Jira](https://www.atlassian.com/company/brand/resources/assets/logos/downloads/atlassian-jira_logo-2c-blue.png)
+
 
 
 🧠 # Próximos Estudos
