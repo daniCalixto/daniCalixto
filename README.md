@@ -14,7 +14,8 @@ Quase nunca está.
 
 💡 # Minhas Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=java)](https://java.com/) [![Jira](https://www.iconfinder.com/search?q=jira)](https://www.jira.com/) 
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=java)](https://java.com/) [![Jira](https://img.shields.io/badge/Jira-Software-blue?logo=jira-software)](www.atlassian.com/jira/official)
+
 
 🧠 # Próximos Estudos
 - Certificado CTFL
