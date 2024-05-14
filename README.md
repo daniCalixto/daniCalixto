@@ -14,7 +14,7 @@ Quase nunca está.
 
 💡 # Minhas Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=html)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=flutter)](https://www.flutter.com/) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/download)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=html)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=flutter)](https://www.flutter.com/) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/download) ![Swagger](https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg)
 
 
 
