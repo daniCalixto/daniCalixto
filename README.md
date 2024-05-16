@@ -14,7 +14,8 @@ Quase nunca está.
 
 💡 # Minhas Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=html)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=flutter)](https://www.flutter.com/) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/download) 
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=html)](https://www.postman.com/) [![My Skills](https://skillicons.dev/icons?i=flutter)](https://www.flutter.com/) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/download) <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira Icon" width="48" height="48" title="Visit Jira website">
 
 
 
