@@ -44,7 +44,7 @@ Quase nunca está.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce Icon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="48" height="48" alt="Sketch Icon" />
 
-</div>
+
 
                                                                                                                                                                                                                                                                                                                                     
 
