@@ -48,6 +48,7 @@ Quase nunca está.
 
 
 
+
 🧠 # Próximos Estudos
 - Certificado CTFL
 - Scrum/Kanban
