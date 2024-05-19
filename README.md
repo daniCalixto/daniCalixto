@@ -49,7 +49,7 @@ Quase nunca está.
 
 
 
-🧠 # Próximos Estudos
+🧠 #Próximos Estudos
 - Certificado CTFL
 - Scrum/Kanban
 
