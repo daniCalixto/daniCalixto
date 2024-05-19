@@ -12,7 +12,7 @@ Nunca é tarde para perseguir nossos sonhos e buscar novas oportunidades de cres
 Quase nunca está.
 
 
-💡 # Minhas Tecnologias  
+💡 Minhas Tecnologias  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://figma.com/" target="_blank">
@@ -46,10 +46,10 @@ Quase nunca está.
 
 </div>
 
+                                                                                                                                                                                                                                                                                                                                    
 
 
-
-🧠 #Próximos Estudos
+🧠 Próximos Estudos
 - Certificado CTFL
 - Scrum/Kanban
 
