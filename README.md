@@ -47,6 +47,7 @@ Quase nunca está.
 </div>
 
 
+
 🧠 # Próximos Estudos
 - Certificado CTFL
 - Scrum/Kanban
