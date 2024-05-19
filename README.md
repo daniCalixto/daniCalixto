@@ -39,7 +39,6 @@ Quase nunca está.
   </a>
   <a href="https://www.google.com/chrome/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google Chrome Icon" width="48" height="48" title="Visit Google Chrome website" style="margin-bottom: 20px;">
-  </a>
   <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-2048x2048-dxjfklgq.png" alt="Draw.io Logo" height="50" width="50" style="margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce Icon" style="margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="48" height="48" alt="Sketch Icon" style="margin-bottom: 20px;">
