@@ -43,7 +43,36 @@ Quase nunca está.
   <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-2048x2048-dxjfklgq.png" alt="Draw.io Logo" height="50" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce Icon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="48" height="48" alt="Sketch Icon" />
--
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon" width="48" height="48" style="margin-bottom: 20px;">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" width="48" height="48" style="margin-bottom: 20px;">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" width="48" height="48" style="margin-bottom: 20px;">
+  </a>
+  <a href="https://www.flutter.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter Icon" width="48" height="48" style="margin-bottom: 20px;">
+  </a>
+  <a href="https://code.visualstudio.com/download" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code Icon" width="48" height="48" style="margin-bottom: 20px;">
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira Icon" width="48" height="48" title="Visit Jira website" style="margin-bottom: 20px;">
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="50" width="50" alt="Swagger Icon" style="margin-bottom: 20px;">
+  <a href="https://www.mozilla.org/firefox/new/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" alt="Firefox Icon" width="48" height="48" title="Visit Firefox website" style="margin-bottom: 20px;">
+  </a>
+  <a href="https://www.google.com/chrome/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google Chrome Icon" width="48" height="48" title="Visit Google Chrome website" style="margin-bottom: 20px;">
+  </a>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-2048x2048-dxjfklgq.png" alt="Draw.io Logo" height="50" width="50" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce Icon" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="48" height="48" alt="Sketch Icon" style="margin-bottom: 20px;">
+</div>
 
   
   
