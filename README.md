@@ -45,12 +45,7 @@ Quase nunca está.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="48" height="48" alt="Sketch Icon">
   <br><br>
 </div>
-Linha 1<br><br>
-Linha 2
-
-Linha 3
-
-
+<br><br>
 
 
   Próximos Estudos
