@@ -52,8 +52,9 @@ Quase nunca está.
 🧠 Próximos Estudos
 - Certificado CTFL
 - Scrum/Kanban
+  
 
-💻 # Ferramentas do meu dia-a-dia
+💻  Ferramentas do meu dia-a-dia
 - Jira
 - Postman
 - Clickup
