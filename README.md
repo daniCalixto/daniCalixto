@@ -47,12 +47,10 @@ Quase nunca está.
 </div>
 <br><br>
 
-
   Próximos Estudos
 - Certificado CTFL
 - Scrum/Kanban
   
-
 💻  Ferramentas do meu dia-a-dia
 - Jira
 - Postman
