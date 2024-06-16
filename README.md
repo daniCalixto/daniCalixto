@@ -2,8 +2,6 @@
 
 # Sou Daniela Calixto
 
-Iniciando na carreira de QA recentemente.
-
 Sou uma Analista de Testes apaixonada por garantir a qualidade de software. 
 
 Tenho experiência em Design de Testes, Testes Web, Testes de API com Postman, SQL/Banco de Dados, metodologia Ágil SCRUM e Bug Tracking com JIRA. 
