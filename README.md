@@ -58,7 +58,7 @@ Trabalhei por quase 08 anos com administradora de empresas (análise de dados, v
 💻  Ferramentas do meu dia-a-dia
 - Jira
 - Postman
-- Clickup
+- VScode
 - Figma
 - Draw.io
 - Swagger
