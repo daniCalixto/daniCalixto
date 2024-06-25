@@ -39,6 +39,8 @@ Trabalhei por quase 08 anos com administradora de empresas (análise de dados, v
   <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-2048x2048-dxjfklgq.png" alt="Draw.io Logo" height="50" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce Icon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="48" height="48" alt="Sketch Icon">
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+
   <br><br>
 
   Próximos Estudos
